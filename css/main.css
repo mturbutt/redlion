@@ -4,7 +4,6 @@
    Author's custom styles
    ========================================================================== */
 
-
 	.carousel-control {
 		top: 47%;
 	}
@@ -26,13 +25,15 @@
 
 	.address {display: none;}
 	.phone {display: none;}
-	
+	.foot-pad {padding-left: 15px;}
+	.right-col {display: none;}
 }
 @media (max-width: 480px) {
 
 	.address {display: none;}
 	.phone {display: none;}
-
+	.foot-pad {padding-left: 15px;}
+	.right-col {display: none;}
 }
 
 
