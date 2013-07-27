@@ -1,0 +1,46 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+	.carousel-control {
+		top: 47%;
+	}
+
+	.footer {
+		width: 100%;
+		background: #000; 
+		color:#999;
+	}	
+	.phone {display: table;}
+	.phone > p {
+		display: table-cell; 
+		vertical-align: middle; 
+		font-size: 18px; 
+		line-height: 100px;
+	}
+
+@media (max-width: 767px) {
+
+	.address {display: none;}
+	.phone {display: none;}
+	
+}
+@media (max-width: 480px) {
+
+	.address {display: none;}
+	.phone {display: none;}
+
+}
+
+
+
+
+
+
+
+
+
+
